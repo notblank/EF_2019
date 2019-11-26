@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1574446208 "beamer.tex" "beamer.pdf" "beamer" 1574446209
-  "/dev/null" 1574446177 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1574775668 "beamer.tex" "beamer.pdf" "beamer" 1574775670
+  "/dev/null" 1574775660 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -191,10 +191,10 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1573582864 4259637 b03346c03fc89555221f8c395c3205ac ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "beamer.aux" 1574446209 5019 eb675dd9a6617151f0339ce3a0ebc064 "pdflatex"
-  "beamer.nav" 1574446209 2411 8c6bbe43bf923ac88764b8cf06f7ccff "pdflatex"
-  "beamer.out" 1574446208 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "beamer.tex" 1574446207 8616 8ff15dc6618bceea40d8e9c6374415f0 ""
+  "beamer.aux" 1574775670 5019 eb675dd9a6617151f0339ce3a0ebc064 "pdflatex"
+  "beamer.nav" 1574775670 2411 8c6bbe43bf923ac88764b8cf06f7ccff "pdflatex"
+  "beamer.out" 1574775669 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "beamer.tex" 1574775667 8676 7760593808313d6a931cdd96b147e5a6 ""
   "movies/MHD_sim.mov" 1574439811 9810149 1c546c4b5be63a7ce41406241feb0e50 ""
   "movies/video9.mov" 1574436946 9422064 64b6c9fe5223eeb6756d327af943cff8 ""
   "plots/Power_Spectra.pdf" 1574438099 750352 7c8cafdeb505df7511cdf312cdff9410 ""
@@ -208,10 +208,10 @@
   "plots/sum.eps" 1574177235 76823 d43aa5b609d694b5e4c4aeec1543e998 ""
   "plots/vector_fields.eps" 1574189382 2123599 0f7cb2828d18667a597d6927b7e34108 ""
   (generated)
-  "beamer.out"
-  "beamer.toc"
+  "beamer.snm"
   "beamer.pdf"
+  "beamer.nav"
+  "beamer.out"
   "beamer.aux"
   "beamer.log"
-  "beamer.snm"
-  "beamer.nav"
+  "beamer.toc"
